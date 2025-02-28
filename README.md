@@ -1,6 +1,6 @@
 <h1 align="center"> 👩🏻‍💻 Gabriela Pompermayer</h1>
 <h3 align="left">Desenvolvedora FullStack</h3>
-<a>Olá! Sou a Gabriela Pompermayer. Engenheira Elétrica, através da Universidade Salvador (UNIFACS).
+<a>Olá! Sou a Gabriela Pompermayer. Engenheira Elétricista, através da Universidade Salvador (UNIFACS).
 
 Ao longo da minha carreira atuei em empresas do ramo industrial, realizando atividades na área de gestão de projetos, análise de dados e desenvolvimento de relatórios técnicos. Através dos meus conhecimentos técnicos em Tecnologia da Informação, possuo domínio em Microsoft Project, Power BI, Excel, VBA, Looker Studio e Banco de Dados. Atualmente, minhas atividades profissionais em Engenharia estão voltadas para análise e desenvolvimento de projetos elétricos.
 
